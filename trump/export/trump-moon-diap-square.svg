@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>trump-moon-diap-square</title>
+    <title>square</title>
     <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g transform="translate(-720, -192)" fill="#000000" id="moon">
+        <g transform="translate(-720, -192)" id="moon">
             <g transform="translate(720, 74)">
                 <g id="diap" transform="translate(0, 84.0423)">
-                    <g id="trump-moon-diap-square" transform="translate(0, 33.9577)">
-                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <g id="square" transform="translate(0, 33.9577)">
+                        <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                        <path d="M3.73238932,15.9021983 C3.73238932,9.21956648 9.13195581,3.82 15.8145876,3.82 C22.4972194,3.82 27.8967859,9.21956648 27.8967859,15.9021983 C27.8967859,22.5848301 22.4972194,27.9843965 15.8145876,27.9843965 C9.13195581,27.9843965 3.73238932,22.5848301 3.73238932,15.9021983 L3.73238932,15.9021983 Z M19.9163764,4.79993124 C19.9163764,4.79993124 16.2684434,6.85471257 14.8406329,9.45850119 C13.4128225,12.0622898 17.8426695,14.4732152 17.8426695,14.4732152 L13.8139003,17.3235206 C13.8139003,17.3235206 18.7192187,18.4719418 17.165142,22.6232591 C15.6110652,26.7745763 10.4150211,26.6746007 10.4150211,26.6746007" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
                     </g>
                 </g>
             </g>
