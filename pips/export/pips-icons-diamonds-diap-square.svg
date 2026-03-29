@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pips-icons-diamonds-diap-square</title>
+    <g id="elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pips-icons" transform="translate(-40, -80)">
+            <g id="diamonds" transform="translate(40, 0)">
+                <g id="pips-icons-diamonds-diap-square" transform="translate(0, 80)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M16.1033798,3.04745599 L23.7974416,15.7557545 C23.8908615,15.9508513 23.8908615,15.993477 23.7974416,16.1916761 C22.0588569,19.0785657 19.4943702,23.3281733 16.1039815,28.9404991 L16.1039712,28.9377092 L16.1033798,28.9404991 C16.0537562,29.0198336 15.9986059,29.0198336 15.9379291,28.9404991 L8.24446898,16.2521068 C8.09516834,16.0419874 8.09516834,15.9910451 8.24446898,15.7557545 C13.3341542,7.34683014 15.8986409,3.11073064 15.9379291,3.04745599 C15.9772173,2.98418134 16.0323675,2.98418134 16.1033798,3.04745599 Z" id="icon" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
