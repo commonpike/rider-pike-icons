@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>sephirot-03-wisdom-plain-square</title>
+    <title>sephirot-02-wisdom-plain-square</title>
     <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="sephirot" transform="translate(-81, -112)">
-            <g id="03-wisdom" transform="translate(81, 77)">
-                <g id="sephirot-03-wisdom-plain-square" transform="translate(0, 35)">
+        <g id="sephirot" transform="translate(-41, -112)">
+            <g id="02-wisdom" transform="translate(41, 77)">
+                <g id="sephirot-02-wisdom-plain-square" transform="translate(0, 35)">
                     <rect id="Rectangle" stroke="#000000" stroke-width="2.5" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
                     <rect id="Rectangle" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" x="5" y="5" width="22" height="22"></rect>
                     <g id="icon" transform="translate(7.781, 11.73)">

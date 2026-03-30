@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>sephirot-03-wisdom-plain-circle</title>
+    <title>sephirot-02-wisdom-plain-circle</title>
     <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="sephirot" transform="translate(-81, -152)">
-            <g id="03-wisdom" transform="translate(81, 77)">
+        <g id="sephirot" transform="translate(-41, -152)">
+            <g id="02-wisdom" transform="translate(41, 77)">
                 <g id="plain" transform="translate(0, 35)">
-                    <g id="sephirot-03-wisdom-plain-circle" transform="translate(0, 40)">
+                    <g id="sephirot-02-wisdom-plain-circle" transform="translate(0, 40)">
                         <circle id="Oval" stroke="#000000" stroke-width="2.5" cx="16" cy="16" r="14.75"></circle>
                         <circle id="Oval" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" cx="16" cy="16" r="11"></circle>
                         <g id="icon" transform="translate(7.781, 11.7297)">
